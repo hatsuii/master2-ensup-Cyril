@@ -83,5 +83,4 @@ public class Personne {
 		this.listeAnnonce = listeAnnonce;
 	}
 
-
 }
